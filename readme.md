@@ -16,3 +16,7 @@ Make sure you have `pnpm` installed globally on your system. If not, you can ins
 1. Install pnpm `npm install -g pnpm`
 2. Install dependencies: `npm install`
 3. Start servers first: `npm run dev:server` then start client: `npm run dev:front`
+
+## App Preview
+
+![app preview](app-preview.png)
